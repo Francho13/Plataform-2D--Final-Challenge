@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: b819e34b01ebecf408af4c3663503529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7516645785243571837
+    second: Portal Enemigo_0
+  - first:
+      213: 7145989654351928685
+    second: Portal Enemigo_1
+  - first:
+      213: 3819121202699573719
+    second: Portal Enemigo_2
+  - first:
+      213: -1405942834552704784
+    second: Portal Enemigo_3
+  - first:
+      213: 4044468309679752347
+    second: Portal Enemigo_4
+  - first:
+      213: 7556223895886395346
+    second: Portal Enemigo_5
+  - first:
+      213: 7343339334291427236
+    second: Portal Enemigo_6
+  - first:
+      213: -5948092219099224062
+    second: Portal Enemigo_7
+  - first:
+      213: 7071534132036017673
+    second: Portal Enemigo_8
+  - first:
+      213: -4595877263165210940
+    second: Portal Enemigo_9
+  - first:
+      213: 6965962817127466960
+    second: Portal Enemigo_10
+  - first:
+      213: 2468147609733450870
+    second: Portal Enemigo_11
+  - first:
+      213: -2504540600820957237
+    second: Portal Enemigo_12
+  - first:
+      213: -2345123255327094302
+    second: Portal Enemigo_13
+  - first:
+      213: -6350893626403668979
+    second: Portal Enemigo_14
+  - first:
+      213: -3739728155722002911
+    second: Portal Enemigo_15
+  - first:
+      213: -1207093424457148635
+    second: Portal Enemigo_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portal Enemigo_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 135
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7651eb448d705860800000000000000
+      internalID: 7516645785243571837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 134
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d5344cab7ab2360800000000000000
+      internalID: 7145989654351928685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91211df7e300530800000000000000
+      internalID: 3819121202699573719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0faf3e0761d7ce0800000000000000
+      internalID: -1405942834552704784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 134
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9449c7cf76d02830800000000000000
+      internalID: 4044468309679752347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 131
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d770a549991dd860800000000000000
+      internalID: 7556223895886395346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 134
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af0895c738c8e560800000000000000
+      internalID: 7343339334291427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 134
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208635d14a1247da0800000000000000
+      internalID: -5948092219099224062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 93
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e9e0593d2232260800000000000000
+      internalID: 7071534132036017673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 165
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce3eb9aaf92830c0800000000000000
+      internalID: -4595877263165210940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7467166421ca060800000000000000
+      internalID: 6965962817127466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c446b9c2f904220800000000000000
+      internalID: 2468147609733450870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcff58ad7951e3dd0800000000000000
+      internalID: -2504540600820957237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 71
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e988b303d2747fd0800000000000000
+      internalID: -2345123255327094302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cbaef25e71dd7a0800000000000000
+      internalID: -6350893626403668979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec9a96e01d91cc0800000000000000
+      internalID: -3739728155722002911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal Enemigo_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52795880dea8f3fe0800000000000000
+      internalID: -1207093424457148635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 712732b6f30aae742830a1595d7a2dc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Portal Enemigo_0: 7516645785243571837
+      Portal Enemigo_1: 7145989654351928685
+      Portal Enemigo_10: 6965962817127466960
+      Portal Enemigo_11: 2468147609733450870
+      Portal Enemigo_12: -2504540600820957237
+      Portal Enemigo_13: -2345123255327094302
+      Portal Enemigo_14: -6350893626403668979
+      Portal Enemigo_15: -3739728155722002911
+      Portal Enemigo_16: -1207093424457148635
+      Portal Enemigo_2: 3819121202699573719
+      Portal Enemigo_3: -1405942834552704784
+      Portal Enemigo_4: 4044468309679752347
+      Portal Enemigo_5: 7556223895886395346
+      Portal Enemigo_6: 7343339334291427236
+      Portal Enemigo_7: -5948092219099224062
+      Portal Enemigo_8: 7071534132036017673
+      Portal Enemigo_9: -4595877263165210940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
